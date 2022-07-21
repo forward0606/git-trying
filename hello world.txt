@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 HEllo woerd!
 This is a conflict
+=======
+Hello world!
+Meoooooooooow?
+>>>>>>> cat
