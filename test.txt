@@ -1,6 +1,8 @@
 
 version4
 This is version 4
+version3
+This is version 10
 
 TAIPEI (Taiwan News) — Members of the public are urged to recycle their unwanted mobile phones in an annual campaign that promises prizes including an iPhone 14.
 
