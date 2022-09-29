@@ -1,6 +1,6 @@
 
-version1
-This is version 1
+version2
+This is version 2
 
 TAIPEI (Taiwan News) — Members of the public are urged to recycle their unwanted mobile phones in an annual campaign that promises prizes including an iPhone 14.
 
@@ -8,3 +8,4 @@ Throughout October, those who bring used cellphones to designated sites will rec
 
 Recycling is available at local cleaning squadrons, convenience stores, mobile phone retailers, and telecom stores. The incentive aims to boost mobile phone recycling rates in Taiwan, which has improved over the years but still lags behind many other countries.
 
+According to the Environmental Protection Administration (EPA), Taiwan purchased an average of 6.5 million new handsets a year during the past three years, but the numbers of recycled units only registered 380,000 in 2019, 360,000 in 2020, and 760,000 in 2021, per Environmental Information Center.
